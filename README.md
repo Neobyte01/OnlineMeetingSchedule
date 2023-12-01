@@ -4,8 +4,7 @@
 
 ## About The Project
 
-An Online service through which you can schedule a meeting. Implemented using the **MERN** stack (MongoDb-Express-React-Node). <br/>
-The Project is a part of the Programming Course "Programming Web Applications" (TWUN13 T3180) at JU. <br/> 
+An Online service through which you can schedule a meeting. Implemented using the **MERN** stack (MongoDb-Express-React-Node). The Project is a part of the Programming Course "Programming Web Applications" (TWUN13 T3180) at JU.
 
 ## Collaborators
 * Mahmut Osmanovic (mosmar99)
